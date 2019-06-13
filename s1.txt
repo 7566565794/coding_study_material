@@ -1,0 +1,4 @@
+"Introduction to Algorithms" by Cormen, Leiserson, Rivest, Stein
+Data Science Tutorials
+Or blogs on topcoder , Codeforces, codechef
+Original research paper of algorithm.
